@@ -1,0 +1,49 @@
+﻿  Ammo.cpp
+  AmmoRack.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\AmmoRack.cpp(43,25): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  board.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(317,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(325,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(389,21): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(508,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(511,24): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(512,27): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+  File.cpp
+  FreeAmmo.cpp
+  game.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\game.cpp(19,41): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  HeavyAmmo.cpp
+  Interface.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Interface.cpp(15,12): warning C4834: odrzucenie wartości zwracanej funkcji z atrybutem [[nodiscard]]
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Interface.cpp(18,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Interface.cpp(95,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Interface.cpp(169,37): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Interface.cpp(173,42): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Interface.cpp(178,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  LightAmmo.cpp
+  main.cpp
+  Obstacle.cpp
+  Product.cpp
+  RepairKit.cpp
+  Shield.cpp
+  shoot.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\shoot.cpp(16,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Shop.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\Shop.cpp(77,25): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  tank.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\tank.cpp(308,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\tank.cpp(325,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\tank.cpp(341,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  creator.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\creator.cpp(60,11): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\creator.cpp(77,22): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\creator.cpp(93,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\creator.cpp(100,9): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\creator.cpp(100,26): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  User.cpp
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\User.cpp(57,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\User.cpp(62,23): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(8,1): warning C4715: "Board::operator=”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\multi\source\repos\203.1-tanks\Projekt PROI\Projekt PROI\board.cpp(33,1): warning C4715: "Board::get_row”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt PROI.vcxproj -> C:\Users\multi\Source\Repos\203.1-tanks\Projekt PROI\x64\Debug\Projekt PROI.exe

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Ammo.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="AmmoRack.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="board.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="creator.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="File.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="FreeAmmo.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="HeavyAmmo.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="LightAmmo.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="RepairKit.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="shoot.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="tank.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Pliki Źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ammo.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="board.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="creator.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="File.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="LightAmmo.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="RepairKit.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="shoot.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="tank.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="AmmoRack.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="FreeAmmo.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="HeavyAmmo.h">
+      <Filter>Pliki Nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="battlefield.txt">
+      <Filter>Boards</Filter>
+    </Text>
+    <Text Include="canyon.txt">
+      <Filter>Boards</Filter>
+    </Text>
+    <Text Include="caves.txt">
+      <Filter>Boards</Filter>
+    </Text>
+    <Text Include="city.txt">
+      <Filter>Boards</Filter>
+    </Text>
+    <Text Include="hills.txt">
+      <Filter>Boards</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Pliki Źródłowe">
+      <UniqueIdentifier>{c3b4306f-747d-46f3-a055-56a1b762001d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Boards">
+      <UniqueIdentifier>{67556941-4144-43b4-9a6e-24eeb305be77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Nagłówkowe">
+      <UniqueIdentifier>{b4fbbcf9-af57-41dc-a35d-460c4a51f3c6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
